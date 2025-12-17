@@ -9,7 +9,7 @@ To estimate the intrinsic value of **Tata Motors Ltd.** as of May 2025 using a D
 # Included Files
 [DCF Valuation Output](Tata_motors_DCF_overview.pdf)  
 [WACC Calculation Sheet](Tata_motors_WACC_Overview.pdf)  
-[Financial Model (Excel)](Tata_Motors_Financial_Model.xlsm)
+[Financial Model (Excel)](Tata_Motors_DcfValuation_25May2025.xlsm)
 
 # Key Valuation Findings
 ### Intrinsic Value Estimate — Base Case  
